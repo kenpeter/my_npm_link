@@ -1,0 +1,15 @@
+{
+  "name": "read-package-json",
+  "version": "1.0.0",
+  "description": "Read package.json's devDependencies and output something like npm link package1 package2........ and run it.",
+  "main": "my_npm_link.js",
+  "dependencies": {
+    "read-package-json": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
